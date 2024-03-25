@@ -1,0 +1,57 @@
+*{
+    font-family: "Trirong", serif;
+    font-size: 15px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 5px solid black;
+    padding: 15px;
+    color: white;
+    opacity: 0.8;
+ }
+.c1{
+   
+    border: 1px none rgb(59, 138, 227) ;
+    padding: 25px;
+    width: 400px;
+    color: black;
+
+ }
+ .c2{
+     padding: 5px;
+     color: white;
+ }
+ .c3{
+   
+    border: 5px none black; 
+    padding: 25px;
+    margin-top: 25px;
+    width: 400px;
+    
+ }
+.c5{
+    border: 2px solid black;
+    text-align: center;
+    color: red;
+    padding: 10px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+label {
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:5px;
+}
+
+button{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 10px;
+}
+h1{
+    font-size: 27px;
+}
